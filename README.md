@@ -10,7 +10,7 @@ Motivated, curious, and eager to apply my skills in real-world projects, I am lo
 ## 🔭 Featured Projects
 
 - **[Churn Analysis](https://github.com/julengarciaaa/analisis-churn)** – Customer churn prediction using ML, exploring preprocessing impact and result interpretability.  
-- **[N-Queens with Genetic Algorithms](https://github.com/julengarciaaa/n-reinas-genetic)** – Solving the N-Queens problem with genetic algorithms, visualizing the evolution generation by generation.  
+- **[N-Queens with Genetic Algorithms](https://github.com/julengarciaaa/n-reinas-genetico)** – Solving the N-Queens problem with genetic algorithms, visualizing the evolution generation by generation.  
 
 ---
 
