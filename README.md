@@ -28,8 +28,3 @@ Motivated, curious, and eager to apply my skills in real-world projects, I am lo
 - [LinkedIn](https://www.linkedin.com/in/julen-garcia-manterola-6b73a1285/)  
 - [Email](mailto:julengarciaaa@gmail.com)  
 
----
-
-## 📈 GitHub Stats
-
-![Julen's GitHub stats](https://github-readme-stats.vercel.app/api?username=julengarciaaa&show_icons=true&theme=radical)
