@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Julen García
+# Hi there! 👋 I'm Julen Garcia
 
 I am a 4th-year **Computer Engineering** student specializing in **Computing and Intelligent Systems**, with a strong interest in **Artificial Intelligence** and **Data Science**.  
 I have experience in academic projects and practical applications involving programming, data analysis, and problem-solving.
